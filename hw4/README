@@ -1,0 +1,16 @@
+INTRO:
+    This is a program that will generate a JSON file that contains records of the differences in people, things, GPS, and time. 
+    The base files were created and written by Felix Wu and were modified by Jack Kooba and Wyatt McRoberts into their current iteration
+
+RUNNING THE PROGRAM:
+    Type "make" into a terminal while inside the hw3 directory. Then type "./main" and the program will run.
+
+THINGS TO NOTE:
+    The current version of the program will run on a MACOS device. If the user is using WSL UBUNTU then they will need to adjust the include path for the JSON headers (ex. #include <json/json.h> will need to become <jsconcpp/json/json.h>)
+
+STUDENT IDS:
+    Jack Kooba: 918201808
+    Wyatt McRoberts: 918848367
+
+TEAM NAME:
+    C-MEN:DMNZ
